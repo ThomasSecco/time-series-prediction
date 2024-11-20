@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/time-series-prediction.git
+    git clone https://github.com/ThomasSecco/time-series-prediction.git
     cd time-series-prediction
     ```
 2. Create and activate a virtual environment:
